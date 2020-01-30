@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ahmadfn/restfulapi-with-testing.svg?branch=master)](https://travis-ci.org/ahmadfn/restfulapi-with-testing)
+[![Build Status](https://travis-ci.org/ahmadfn/restfulapi-with-testing.svg?branch=master)](https://travis-ci.org/ahmadfn/restfulapi-with-testing)   [![Coverage Status](https://coveralls.io/repos/github/ahmadfn/restfulapi-with-testing/badge.svg?branch=master)](https://coveralls.io/github/ahmadfn/restfulapi-with-testing?branch=master)  [![Maintainability](https://api.codeclimate.com/v1/badges/3cfe57675252b5703b33/maintainability)](https://codeclimate.com/github/ahmadfn/restfulapi-with-testing/maintainability)
 
 # Node.js Restful Api with Testing Tools
 
