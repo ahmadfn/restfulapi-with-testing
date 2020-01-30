@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ahmadfn/restfulapi-with-testing.svg?branch=master)](https://travis-ci.org/ahmadfn/restfulapi-with-testing)
+
 # Node.js Restful Api with Testing Tools
 
 ## Dependencies Used
